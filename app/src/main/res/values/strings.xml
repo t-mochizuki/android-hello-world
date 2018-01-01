@@ -2,4 +2,8 @@
     <string name="app_name">My First Application</string>
     <string name="title_janken">じゃんけんゲーム</string>
     <string name="button_showsign">ぽん</string>
+    <string name="goo">グー</string>
+    <string name="choki">チョキ</string>
+    <string name="paa">パー</string>
+    <string name="start_janken">じゃんけん・・・</string>
 </resources>
