@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My First Application</string>
+    <string name="title_janken">じゃんけんゲーム</string>
+    <string name="button_showsign">ぽん</string>
 </resources>
